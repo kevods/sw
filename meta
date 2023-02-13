@@ -1,12 +1,13 @@
 {
-"allow": true,
-"server-version": "123",
-"update-URL": "https://a.swipis.com/",
-"ad": {
-  "frequency": 10, 
-  "adURL": "https://www.ipvanish.com/",
-  "logoURL": "https://swipis.com/extresources/ipvlogo.jpg",
-  "title": "Protect your privacy with the best VPN.",
-  "description": "Advanced security, high-speed connections, and 24/7 customer support."
+  "allow": true,
+  "server-version": "123",
+  "update-URL": "https://a.swipis.com/",
+  "ad": {
+    "frequency": 10,
+    "adURL": "https://bit.ly/xxxprivacy",
+    "logoURL": "https://swipis.com/extresources/ipvlogo.jpg",
+    "title": "YOU'RE BEING TRACKED",
+    "description": "Your online activity is tracked by your Internet Service Provider, hackers, websites, and government through your identifying IP Address. Stream, watch porn and surf online anonymously by masking your IP Address and encrypting your Internet connection with IPVanish VPN. <br> Don't risk getting a letter from shady lawyers or otherwise being blackmailed. <br> Claim your Discount Now! ( Expires soon ) <br> Includes 30-Day No-Risk Money-Back Guarantee."
+  }
 }
-}
+
