@@ -3,7 +3,7 @@
   "server-version": "123",
   "update-URL": "https://a.swipis.com/",
   "ad": {
-    "frequency": 10,
+    "frequency": 20,
     "adURL": "https://bit.ly/xxxprivacy",
     "logoURL": "https://swipis.com/extresources/ipvlogo.jpg",
     "title": "YOU'RE BEING TRACKED",
