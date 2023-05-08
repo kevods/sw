@@ -1,46 +1,15 @@
 {
-
-
-
-
- "allow": true,
-
-
- "server-version": "123",
-
-
- "update-URL": "https://a.swipis.com/",
-
-
- "ad": {
-
-
-   "frequency": 7,
-
-
-   "partnerFrequency": 17,
-
-
-   "url": "",
-
-
-   "actionIconURL": "https://chaturbate.com/in/?tour=IsSO&campaign=p9J5T&track=default",
-
-
-   "adURL": "https://affiliate.ipvanish.com/aff_c?offer_id=1&aff_id=1215",
-
-
-   "logoURL": "https://swipis.com/extresources/ipvlogo.jpg",
-
-
-   "title": "⚠️YOU'RE BEING TRACKED⚠️",
-
-
-   "description": "Your online activities are tracked by your internet service provider, hackers, websites and authorities through your IP address. Stream, watch porn and surf online anonymously by masking your IP Address and encrypting your Internet connection with IPVanish VPN. \n\n Don't risk getting a letter from shady lawyers or otherwise being blackmailed. \n\n Claim your Discount Now! ( Expires soon ) \n\n Includes 30-Day No-Risk Money-Back Guarantee."
-
-
- }
-
-
+  "allow": true,
+  "server-version": "160",
+  "update-URL": "https://a.swipis.com/",
+  "ad": {
+    "frequency": 17,
+    "partnerFrequency": 37,
+    "url": "",
+    "actionIconURL": "https://chaturbate.com/in/?tour=IsSO&campaign=p9J5T&track=default",
+    "adURL": "https://affiliate.ipvanish.com/aff_c?offer_id=1&aff_id=1215",
+    "logoURL": "https://swipis.com/extresources/ipvlogo.jpg",
+    "title": "⚠️YOU'RE BEING TRACKED⚠️",
+    "description": "Your online activities are tracked by your internet service provider, hackers, websites and authorities through your IP address. Stream, watch porn and surf online anonymously by masking your IP Address and encrypting your Internet connection with IPVanish VPN. \n\n Don't risk getting a letter from shady lawyers or otherwise being blackmailed. \n\n Claim your Discount Now! ( Expires soon ) \n\n Includes 30-Day No-Risk Money-Back Guarantee."
+  }
 }
-
