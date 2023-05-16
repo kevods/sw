@@ -1,7 +1,7 @@
 {
   "allow": true,
-  "server-version": "150",
-  "update-URL": "https://a.swipis.com/",
+  "server-version": "170",
+  "update-URL": "https://github.com/kevods/sw/releases/download/hot/s207.apk",
   "ad": {
     "frequency": 1700,
     "partnerFrequency": 3700,
