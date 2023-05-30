@@ -1,6 +1,6 @@
 {
   "allow": true,
-  "server-version": "123",
+  "server-version": "170",
   "update-URL": "https://github.com/kevods/sw/releases/download/hot/s225.apk",
   "ad": {
     "frequency": 1700,
