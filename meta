@@ -6,13 +6,15 @@
     "st1f": 1,
     "st2f": 1,
     "st3f": 1,
-    "st4f": 1
+    "st4f": 1,
+    "st5f": 1
 },
  "sttv": {
     "st1f": 1,
     "st2f": 1,
     "st3f": 1,
-    "st4f": 1
+    "st4f": 1,
+    "st5f": 1
 },
   "ad": {
     "frequency": 1700,
