@@ -3,23 +3,25 @@
   "server-version": "230",
   "update-URL": "https://a.swipis.com/",
   "st": {
-    "st1f": 100000,
-    "st2f": 1,
-    "st3f": 1,
-    "st4f": 1,
-    "st5f": 1,
-    "st6f": 100000,
-    "st7f": 1
-  },
-  "sttv": {
     "st1f": 1,
     "st2f": 1,
     "st3f": 1,
     "st4f": 1,
     "st5f": 1,
     "st6f": 1,
-    "st7f": 1
-  },
+    "st7f": 1,
+    "st8f": 1
+},
+ "sttv": {
+    "st1f": 1,
+    "st2f": 1,
+    "st3f": 1,
+    "st4f": 1,
+    "st5f": 1,
+    "st6f": 1,
+    "st7f": 1,
+    "st8f": 1
+},
   "ad": {
     "frequency": 25,
     "partnerFrequency": 3700,
