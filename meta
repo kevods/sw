@@ -19,8 +19,6 @@ apio: {
     "minVoteRating": 0.9,
     "minDurationSec": 10,
     "maxDurationSec": 240,
-    "pageSize": 5,
-    "pageNum":  2,
     "orderBy": "random()"
 },
   "st": {
