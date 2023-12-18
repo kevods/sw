@@ -12,6 +12,17 @@
     "t7": "fY7TM9Q8kbFLPy723q24U1JSHn55BpAUwbW/aeEA4wsUebPP9bCdJyEacFviD14=7ghA88d9t8m96YRifW1E",
     "t8": ""
 },
+apio: {
+    "site": "pornhub",
+    "minViews": 100000,
+    "minVoteTotal": 100,
+    "minVoteRating": 0.9,
+    "minDurationSec": 10,
+    "maxDurationSec": 240,
+    "pageSize": 5,
+    "pageNum":  2,
+    "orderBy": "random()"
+},
   "st": {
     "st1f": 100000,
     "st2f": 1,
