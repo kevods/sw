@@ -61,7 +61,7 @@
     "orderBy": "random()"
 },
   "st": {
-    "st1f": 100000,
+    "st1f": 1,
     "st2f": 1,
     "st3f": 1,
     "st4f": 1,
