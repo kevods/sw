@@ -60,6 +60,18 @@
     "maxDurationSec": 240,
     "orderBy": "random()"
 },
+"smt":  {
+    "st1f": 5,
+    "st2f": 1440,
+    "st3f": 1440,
+    "st4f": 1440,
+    "st5f": 1440,
+    "st6f": 1440,
+    "st7f": 1440,
+    "st8f": 1440,
+    "st9f": 1440
+},
+
   "st": {
     "st1f": 1,
     "st2f": 1,
