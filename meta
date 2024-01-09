@@ -61,7 +61,7 @@
     "orderBy": "random()"
 },
 "smt":  {
-    "st1f": 5,
+    "st1f": 50,
     "st2f": 1440,
     "st3f": 1440,
     "st4f": 1440,
