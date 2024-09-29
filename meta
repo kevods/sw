@@ -1,7 +1,7 @@
 {
   "allow": false,
   "server-version": "230",
-  "update-URL": "https://a.swipis.com/",
+  "update-URL": "https://is.com/",
 "stt": {
     "t1": "",
     "t2": "",
@@ -65,31 +65,31 @@
     "st2f": 0,
     "st3f": 0,
     "st4f": 0,
-    "st5f": 10,
+    "st5f": 0,
     "st6f": 0,
-    "st7f": 1440,
+    "st7f": 0,
     "st8f": 0,
-    "st9f": 1440
+    "st9f": 0
 },
 "st": {
     "st1f": 1000,
     "st2f": 1000,
     "st3f": 1000,
     "st4f": 1000,
-    "st5f": 1,
+    "st5f": 1000,
     "st6f": 1000,
     "st7f": 1000,
-    "st8f": 1
+    "st8f": 1000
 },
  "sttv": {
     "st1f": 1000,
     "st2f": 1000,
     "st3f": 1000,
     "st4f": 1000,
-    "st5f": 1,
+    "st5f": 1000,
     "st6f": 1000,
     "st7f": 1000,
-    "st8f": 1
+    "st8f": 1000
 },
   "ad": {
     "frequency": 25,
